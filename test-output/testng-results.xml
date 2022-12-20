@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-19T16:02:32Z" name="Default suite" finished-at="2022-12-19T16:03:25Z" duration-ms="53609">
+    <groups>
+    </groups>
+    <test started-at="2022-12-19T16:02:32Z" name="Default test" finished-at="2022-12-19T16:03:25Z" duration-ms="53609">
+      <class name="UItest.Luma5and14">
+        <test-method signature="ItemDisplay()[pri:0, instance:UItest.Luma5and14@11f0a5a1]" started-at="2022-12-19T16:02:32Z" name="ItemDisplay" finished-at="2022-12-19T16:02:54Z" duration-ms="22043" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ItemDisplay -->
+        <test-method signature="MyReview()[pri:0, instance:UItest.Luma5and14@11f0a5a1]" started-at="2022-12-19T16:02:54Z" name="MyReview" finished-at="2022-12-19T16:03:25Z" duration-ms="31496" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MyReview -->
+      </class> <!-- UItest.Luma5and14 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
